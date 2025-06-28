@@ -4,8 +4,10 @@ def OnTime(n):
         iteration+=1
     print("When n is ", n, "iterations = ", iteration)
 
+
 OnTime(10)
 OnTime(20)
 OnTime(42)
 
-print("\nWith every 'n the time taken and iterations will increase linearly")
+
+print("\nWith every 'n the time taken and iterations will increase linearly.")
